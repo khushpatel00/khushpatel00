@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm khush patel, From India</p>
+<p align="left">I'm khushpatel, From India</p>
 
 ###
 
