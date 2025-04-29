@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 How its going?</h1>
 
-###
-
-<p align="left">I'm khush patel, From India</p>
+###  
+  
+<p align="left">I'm khushpatel, From India</p>
 
 ###
 
