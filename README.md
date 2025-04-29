@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 How its Gping?</h1>
+<h1 align="center">Hey 👋 How its Going?</h1>
 
 ###
 
