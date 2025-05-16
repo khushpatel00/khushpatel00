@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋 How its going?</h1>
+<h1 align="center">Hey 👋</h1>
 
 ###
 
-<p align="left">I'm khush patel, From India</p>
+<p align="left">I'm khush patel</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 🙄🥴<br>📚 I'm currently learning Fullstack Development<br>🎯 Goals: a neat Dev.</p>
+<p align="left">✨ Creating bugs since '22 <br>📚 On the way for being a Fullstack Developer<br>🎯 Goals: nah!, man. {I just Go on}</p>
 
 ###
 
