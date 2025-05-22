@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs & user experiences since '22 <br>📚 On the way for being a Fullstack Developer<br>🎯 Goals: nah!, man. {I just Go on}</p>
+<p align="left">✨ Creating bugs and user experiences since '22 <br>📚 On the way for being a Fullstack Developer<br>🎯 Goals: nah!, man. {I just Go on}</p>
 
 ###
 
