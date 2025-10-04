@@ -1,12 +1,12 @@
-<h1 align="center">Hey 👋</h1>
+<h1 align="center">You're here too ?🙄</h1>
 
 ###
 
-<p align="left">I'm khush patel</p>
+<p align="left">Anyways, I'm khush patel</p>
 
 ###
 
-<h2 align="left">About me !?</h2>
+<h2 align="left">You moght didnt know me!</h2>
 
 ###
 
@@ -80,3 +80,4 @@
 </div>
 
 ###
+
