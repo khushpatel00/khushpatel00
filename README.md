@@ -85,4 +85,6 @@
 
 
 ###
-<h2 align="center">Rather to look forward, try to look backward</h2>
+<h2 align="center">Rather than looking forward, try looking backwards</h2>
+
+
