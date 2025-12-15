@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs and user experiences since '22 <br>📚 On the way for being a Fullstack Developer<br>🎯 Goals: nah!, man. {I just Go on}</p>
+<p align="left">✨ Creating bugs and user experiences since '22 <br>📚 On the way for being a Fullstack Developer (Im a gamedev too) <br>🎯 Goals: nah!, man. {I just Go on}</p>
 
 ###
 
@@ -95,6 +95,7 @@
 
 <br><br><br>
 <h2 align="center">Rather than looking forward, try looking backwards</h2>
+
 
 
 
