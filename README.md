@@ -65,7 +65,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="41" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="41" height="25" alt="discord logo"  />
-  <a href="https://www.instagram.com/khush_x64.exe/" target="_blank">
+  <a href="https://www.instagram.com/idunnoowhy/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="41" height="25" alt="instagram logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="41" height="25" alt="gmail logo"  />
@@ -95,6 +95,7 @@
 
 <br><br><br>
 <h2 align="center">Rather than looking forward, try looking backwards</h2>
+
 
 
 
