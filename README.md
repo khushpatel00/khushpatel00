@@ -107,6 +107,8 @@
 
 <h2 align="center">I BUILD STUFF THAT WORKS 'too' :)</h2>
 
+<h3 align="center">btw, i type pretty fast, check my monkeytype profile under links</h3>
+
 ###
 
 <div>
@@ -114,5 +116,6 @@
 </div>
 
 ###
+
 
 
