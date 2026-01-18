@@ -16,85 +16,85 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=blender" height="50" alt="blender logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="50" alt="debian logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="50" alt="webstorm logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="50" alt="rider logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="50" alt="discord logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="50" alt="ubuntu logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=unreal" height="50" alt="unrealengine logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=unity" height="50" alt="unity logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=replit" height="50" alt="replit logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=md" height="50" alt="markdown logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white&style=for-the-badge" height="50" alt="codepen logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="50" alt="express logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="50" alt="jetbrains logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="50" alt="notion logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="50" alt="figma logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
 </div>
 
