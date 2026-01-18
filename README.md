@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khushpatel00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=khushpatel00&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushpatel00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=khushpatel00&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushpatel00&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -11,6 +11,8 @@
 <img src="https://raw.githubusercontent.com/khushpatel00/khushpatel00/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -76,6 +78,24 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white&style=for-the-badge" height="40" alt="codepen logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
 ###
@@ -96,9 +116,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khushpatel00/khushpatel00/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khushpatel00/khushpatel00/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/khushpatel00/khushpatel00/output/pacman-contribution-graph.svg">
-  <img src="https://streak-stats.demolab.com?user=khushpatel00&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushpatel00&radius=16&theme=react&area=false&order=5&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  />
-  
 </picture>
 
 ###
@@ -106,6 +123,10 @@
 <br clear="both">
 
 <h2 align="center">I BUILD STUFF THAT WORKS 'too' :)</h2>
+
+###
+
+<br clear="both">
 
 <h3 align="center">btw, i type pretty fast, check my monkeytype profile under links</h3>
 
@@ -116,6 +137,3 @@
 </div>
 
 ###
-
-
-
