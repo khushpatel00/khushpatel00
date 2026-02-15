@@ -15,20 +15,6 @@ me = {
 }
 ```
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=khushpatel00&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=dark" height="150" alt="stats graph"  /> <br />
-  <img src="https://streak-stats.demolab.com?user=khushpatel00&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  /> <br />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=khushpatel00&layout=compact&hide_title=true&langs_count=4&disable_animations=true&theme=dark" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div align="left">
@@ -128,6 +114,22 @@ me = {
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=khushpatel00&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=dark" height="150" alt="stats graph"  />
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=khushpatel00&layout=compact&hide_title=true&langs_count=4&disable_animations=true&theme=dark" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=khushpatel00&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="Snake animation" />
+
+###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khushpatel00/khushpatel00/output/pacman-contribution-graph-dark.svg">
