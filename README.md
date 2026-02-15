@@ -1,14 +1,31 @@
+<h1>OOOO Recruiters !!, lean here</h1> <br />
+
+```
+me = {
+    'name': 'khush patel',
+    'professtion': 'full stack developer'
+    'works_better_on': 'frontend'
+    'specialization_in' : [
+        "GSAP", 
+        "Framer Motion",
+        "Locomotive Scroll",
+        "React Bits", 
+        "Tailwind"
+    ]
+}
+```
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushpatel00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=khushpatel00&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushpatel00&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=khushpatel00&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=dark" height="150" alt="stats graph"  /> <br />
+  <img src="https://streak-stats.demolab.com?user=khushpatel00&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  /> <br />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=khushpatel00&layout=compact&hide_title=true&langs_count=4&disable_animations=true&theme=dark" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/khushpatel00/khushpatel00/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -137,3 +154,4 @@
 </div>
 
 ###
+
