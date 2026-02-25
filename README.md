@@ -5,13 +5,16 @@ me = {
     'name': 'khush patel',
     'professtion': 'full stack developer'
     'works_better_on': 'frontend'
-    'specialization_in' : [
+    'specialization_in': [
         "GSAP", 
         "Framer Motion",
         "Locomotive Scroll",
         "React Bits", 
         "Tailwind"
-    ]
+    ],
+    'maintaining': [
+        "python-materialyoucolor3 (AUR)"
+    ],
 }
 ```
 
@@ -102,6 +105,8 @@ me = {
 </div>
 
 ###
+## Maintaining `python-materialyoucolor3` as [aur](https://aur.archlinux.org/packages/python-materialyoucolor3) Package
+###
 
 <div align="left">
   <a href="https://instagram.com/iduunnowhy" target="_blank">
@@ -156,6 +161,7 @@ me = {
 </div>
 
 ###
+
 
 
 
