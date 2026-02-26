@@ -106,6 +106,7 @@ me = {
 
 ###
 ## Maintaining `python-materialyoucolor3` as [aur](https://aur.archlinux.org/packages/python-materialyoucolor3) Package
+![](https://komarev.com/ghpvc/?username=khushpatel00&color=lightgrey)
 ###
 
 <div align="left">
@@ -161,6 +162,7 @@ me = {
 </div>
 
 ###
+
 
 
 
