@@ -3,7 +3,7 @@
 ```
 me = {
     'name': 'khush patel',
-    'professtion': 'full stack developer'
+    'profession': 'MERN developer'
     'works_better_on': 'frontend'
     'specialization_in': [
         "GSAP", 
