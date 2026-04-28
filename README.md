@@ -3,18 +3,24 @@
 ```
 me = {
     'name': 'khush patel',
-    'profession': 'MERN developer'
-    'works_better_on': 'frontend'
+    'profession': 'MERN developer',
+    'works_better_on': 'frontend',
     'specialization_in': [
         "GSAP", 
         "Framer Motion",
         "Locomotive Scroll",
         "React Bits", 
-        "Tailwind"
+        "Tailwind",
     ],
     'maintaining': [
-        "python-materialyoucolor3 (AUR)"
+        "python-materialyoucolor3 (AUR)",
     ],
+    'learning': [
+        "Swift", // Swift and SwiftUI, ie. iOS / iPadOS Development
+        "SpringBoot", // Absolute Beginner
+        "Unity Engine",
+        "Socket.IO", // WebSocket
+    ]
 }
 ```
 
