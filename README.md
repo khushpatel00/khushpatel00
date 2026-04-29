@@ -136,7 +136,7 @@ me = {
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="Snake animation" />
 
@@ -149,23 +149,8 @@ me = {
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/khushpatel00/khushpatel00/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### -->
 
-<br clear="both">
-
-<h2 align="center">I BUILD STUFF THAT WORKS 'too' :)</h2>
-
-###
-
-<br clear="both">
-
-<h3 align="center">btw, i type pretty fast, check my monkeytype profile under links</h3>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
 
