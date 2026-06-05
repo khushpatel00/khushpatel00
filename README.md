@@ -24,6 +24,12 @@ me = {
 }
 ```
 
+<h3> Professtional bug creater and Part time Bug Fixer 🙂 </h3>
+<h5> Questioning my Life Choices 🙂 </h5>
+
+
+### Powered by Chai, Curiosity, and `console.log()` 
+
 <br clear="both">
 
 <div align="left">
